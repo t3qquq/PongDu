@@ -56,3 +56,31 @@ markdown_extensions:
 
 nav:
   - 홈: index.md
+
+  - 시작하기:
+      - 시스템 요구사항: getting-started/requirements.md
+      - 설치: getting-started/installation.md
+      - 최초 실행: getting-started/first-run.md
+      - 업데이트: getting-started/update.md
+
+  - 후원 연동 앱:
+      - 개요: puppet-api/overview.md
+      - 치지직 로그인: puppet-api/login.md
+      - 설정: puppet-api/settings.md
+      - 후원 연동: puppet-api/donation.md
+      - 오버레이: puppet-api/overlay.md
+      - 문제 해결: puppet-api/troubleshooting.md
+
+  - 모드 기능:
+      - 개요: mod-features/overview.md
+      - 후원 이벤트: mod-features/donation-events.md
+      - NPC: mod-features/npc.md
+      - 아이템: mod-features/items.md
+      - 엔딩: mod-features/endings.md
+
+  - FAQ:
+      - 자주 묻는 질문: faq/faq.md
+      - 알려진 문제: faq/known-issues.md
+
+  - 변경 내역:
+      - 릴리즈 노트: changelog/index.md

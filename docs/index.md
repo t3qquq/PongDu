@@ -23,7 +23,7 @@
 </div>
 
 <div class="home-card">
-<h2>🎮 모드 기능</h2>
+<h2>🎮 모드 기능 (API)</h2>
 <p>후원 기능 소개</p>
 <a href="mod-features/overview/">기능 보기 →</a>
 </div>

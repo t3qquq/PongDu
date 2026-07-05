@@ -78,7 +78,7 @@ nav:
       - 오버레이: puppet-api/overlay.md
       - 문제 해결: puppet-api/troubleshooting.md
 
-  - 모드 기능:
+  - 모드 기능 ( API ):
       - 개요: mod-features/overview.md
       - 후원 이벤트: mod-features/donation-events.md
       - NPC: mod-features/npc.md

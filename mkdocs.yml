@@ -1,6 +1,6 @@
-site_name: 퐁듀 - 치지직 후원연동 시스템
-site_description: Official documentation for PongDuAPI and Chzzk Zomboid Donation Mod
-site_url: https://t3qquq.github.io/PongDu/
+site_name: PonDu
+site_description: Official documentation for PuppetAPI and Chzzk Zomboid Donation Mod
+site_url: https://t3qquq.github.io/PonDu/
 
 theme:
   name: material
@@ -70,12 +70,12 @@ nav:
       - 최초 실행: getting-started/first-run.md
 
   - 퐁듀 런처:
-      - 개요: puppet-api/overview.md
-      - 치지직 로그인: puppet-api/login.md
-      - 설정: puppet-api/settings.md
-      - 후원 연동: puppet-api/donation.md
-      - 오버레이: puppet-api/overlay.md
-      - 문제 해결: puppet-api/troubleshooting.md
+      - 개요: pongdu-launcher/overview.md
+      - 채널 연동: pongdu-launcher/channel.md
+      - rewards.txt 경로: pongdu-launcher/rewards-path.md
+      - 리워드 티어: pongdu-launcher/reward-tiers.md
+      - PZ 원클릭 최적화: pongdu-launcher/pz-optimization.md
+      - 문제 해결: pongdu-launcher/troubleshooting.md
 
   - 모드 기능 ( API ):
       - 개요: mod-features/overview.md

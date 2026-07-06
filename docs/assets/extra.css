@@ -1,6 +1,39 @@
+/* 퐁듀 테마 - 치즈/오렌지 웜톤 */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #c1712b;
+  --md-primary-fg-color--light: #e0a668;
+  --md-primary-fg-color--dark: #8a4e1b;
+  --md-primary-bg-color: #fffaf3;
+  --md-primary-bg-color--light: #fffaf3;
+
+  --md-accent-fg-color: #d98e1e;
+  --md-accent-fg-color--transparent: #d98e1e1a;
+  --md-accent-bg-color: #1a1305;
+  --md-accent-bg-color--light: #1a1305;
+
+  --md-typeset-a-color: #b5651d;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-hue: 28;
+
+  --md-primary-fg-color: #e0a668;
+  --md-primary-fg-color--light: #efc596;
+  --md-primary-fg-color--dark: #a8631f;
+  --md-primary-bg-color: #1a1305;
+  --md-primary-bg-color--light: #1a1305;
+
+  --md-accent-fg-color: #f2b705;
+  --md-accent-fg-color--transparent: #f2b7051a;
+  --md-accent-bg-color: #1a1305;
+  --md-accent-bg-color--light: #1a1305;
+
+  --md-typeset-a-color: #f2b705;
+}
+
 .md-header .md-header__button.md-logo img,
 .md-header .md-logo img {
-  height: 64px;
+  height: 40px;
   width: auto;
 }
 .home-grid {

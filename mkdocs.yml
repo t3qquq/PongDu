@@ -1,6 +1,6 @@
-site_name: PonDu
-site_description: Official documentation for PuppetAPI and Chzzk Zomboid Donation Mod
-site_url: https://t3qquq.github.io/PonDu/
+site_name: 퐁듀 - 치지직 후원연동 시스템
+site_description: Official documentation for PongDuAPI and Chzzk Zomboid Donation Mod
+site_url: https://t3qquq.github.io/PongDu/
 
 theme:
   name: material
@@ -30,16 +30,16 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: black
-      accent: blue
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-night
         name: 다크 모드
 
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: black
-      accent: blue
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-sunny
         name: 라이트 모드
@@ -68,9 +68,8 @@ nav:
       - 시스템 요구사항: getting-started/requirements.md
       - 설치: getting-started/installation.md
       - 최초 실행: getting-started/first-run.md
-      - 업데이트: getting-started/update.md
 
-  - 후원 연동 앱:
+  - 퐁듀 런처:
       - 개요: puppet-api/overview.md
       - 치지직 로그인: puppet-api/login.md
       - 설정: puppet-api/settings.md
